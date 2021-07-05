@@ -44,3 +44,31 @@ p {
     margin-top: 200px;
     margin-left: 100px;
 }
+
+.about {
+    height: 800px;
+    border: 1px solid red;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url('/images/7.png');
+}
+
+.about img {
+    width: 458px;
+    height: 670px;
+    top: 64px;
+}
+
+.about-img {
+    margin-left: 150px;
+    margin-top: 100px;
+    width: 40%;
+    float: left;
+}
+
+.about-me {
+    margin-right: 50px;
+    margin-top: 150px;
+    width: 40%;
+    float: left;
+}
